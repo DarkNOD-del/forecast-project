@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ### Запуск бота
 ```bash
-python bot.py
+python main.py
 ```
 
 ## 🤖 Использование Telegram-бота
